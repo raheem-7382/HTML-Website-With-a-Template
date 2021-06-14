@@ -1,0 +1,43 @@
+.x{
+    background-color: #52c787;
+    width: 100%;
+}
+.y{
+    background-color: #7abaff;
+    width: 100%;
+}
+.one{
+    background-color: #8fd19e;
+    width: 100%;
+}
+.two{
+    background-color: #16181b;
+    width: 100%;
+}
+.three{
+    background-color: #495057;
+    width: 100%;
+}
+.a{
+    background-color: #0c5460;
+    width: 100%;
+}
+.b{
+    background-color: #040505;
+    width: 100%;
+}
+.c{
+    background-color: #533f03;
+    width: 100%;
+}
+.d{
+    background-color: #d39e00;
+    width: 100%;
+}
+.carousel-inner img{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 90vh;
+    margin-top: 10px;
+}
